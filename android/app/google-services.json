@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400545822046",
+    "project_id": "facialrecognition-9ffcb",
+    "storage_bucket": "facialrecognition-9ffcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400545822046:android:c00e204a17bfb870cd4bcf",
+        "android_client_info": {
+          "package_name": "com.example.app_lina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASa0f-mGbdUU8VEgnsGvLIWvM-8DbVgts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
